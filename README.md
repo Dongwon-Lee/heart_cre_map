@@ -8,13 +8,14 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
 <sup>\*</sup> Correspondence should be addressed to: Aravinda Chakravarti (aravinda AT jhmi DOT edu) or Dongwon Lee (dwlee AT jhu edu)
 
 ## DHS peak sets called by MACS2 for the five adult heart samples
-  * Chaklab1: [narrowPeak](https://jh.box.com/s/xfh6kg3ltk4zwxk4ak9dqtgw9ewgfpgr), [bigWig](https://jh.box.com/s/r0pif7vo22jb29s5sy7ibdmevpu4hd3e), [extended](https://jh.box.com/s/00cjgtrjwjx4din9rbu71fa0dojsngvo)
-  * Chaklab2: [narrowPeak](https://jh.box.com/s/uxuutnnz5dw4tgpzcaf7uaulvbwtnpvo), [bigWig](https://jh.box.com/s/b5nlybquydxt2hl9sjkfpmd9xfwnug2i), [extended](https://jh.box.com/s/ydn8c8us8uj4t7otnw4zj4czk01lxc1f)
-  * ENCODE1: [narrowPeak](https://jh.box.com/s/oqtm4up7cdptbs9cimzfxtf7w4t0pnec), [bigWig](https://jh.box.com/s/rggcxgmtqx645bojlsjmggynbqe0v12f), [extended](https://jh.box.com/s/rgphq6yls1hhkb82c63jqymip5qfpjo2)
-  * ENCODE2: [narrowPeak](https://jh.box.com/s/sjup5nldn2xhz38rcb9oexpt5cuuwotz), [bigWig](https://jh.box.com/s/pprsmcwqeafuiaggd752abjct7yskoc7), [extended](https://jh.box.com/s/3z1zrfst0vnnp3tajlpkobmgzchlzi1i)
+  * Chaklab1: [narrowPeak](https://drive.google.com/uc?id=18CpfhX_B5Vfm3ff_YXRzLvrm-LJLYvFl&export=download), [bigWig](https://drive.google.com/uc?id=1N9nf0Vz9waE8mYBQp2r-6XBGmqcPpjiw&export=download), [extended](https://drive.google.com/uc?id=1afEsOu_xFAJ_9kaNRM4IdzUsY-Z2H2Ke&export=download)
+  * Chaklab2: [narrowPeak](https://drive.google.com/uc?id=1GqB-iQ0fbiiC_sOCatM-vijwcy_6DFR6&export=download), [bigWig](https://drive.google.com/uc?id=1BgurZ6rq3WnC381gLNIQL4VBmBoAfrTW&export=download), [extended](https://drive.google.com/uc?id=189fB_VCfCnwTNJSPeW8XFlytKyLx7W_i&export=download)
+  * ENCODE1: [narrowPeak](https://drive.google.com/uc?id=1TvwX0yB0Z3BO-VCwTM8eFGsWozRPS9Gv&export=download), [bigWig](https://drive.google.com/uc?id=17oZTZQxK0AzT7yVNqwPasM48u66oIAZ_&export=download), [extended](https://drive.google.com/uc?id=1GYWespB_00ZMcWBYxTDhNqPE6j2UnvMW&export=download)
+  * ENCODE2: [narrowPeak](https://drive.google.com/uc?id=1P28RAOzZTN3blqy2OUNN0L87QEft6O7J&export=download), [bigWig](https://drive.google.com/uc?id=1G__924LPbTMhfdBACsCEsc2JYixkaCFe&export=download), [extended](https://drive.google.com/uc?id=1ZPAL3CxVteZzYybC3Q-bl-yjTiJ21heC&export=download)
   * Roadmap: [narrowPeak](https://drive.google.com/uc?id=1lzJP-2MvxCwBTcC1lveExgOVumS-hSs-&export=download), [bigWig](https://drive.google.com/uc?id=1OjPRLFHfrkoTZC_ET6ZlzZc9PMZCgccH&export=download), [extended](https://drive.google.com/uc?id=17CNwE1jmc_xSm6uwQpiVC3w5bKqbq9nW&export=download)
+  * [View all files](https://drive.google.com/drive/folders/10N8sbZ5TKVrAnGJou7PuCcbljkBmW8WY)
 
-*Notes:* Extended peaks are defined as 600bp peaks centered at the MACS2 summits. Any overlapping pekas were then merged. Peaks in chrY and chrM were excluded.
+*Notes:* Extended peaks are defined as 600bp peaks centered at the MACS2 summits. Any overlapping peaks were then merged. Peaks in chrY and chrM were excluded.
 
 
 *last updated: 12/8/2017*
