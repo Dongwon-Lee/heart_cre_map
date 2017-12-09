@@ -33,12 +33,15 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
   * Raw data are available in the GEO database (accession no. GSE104989)
   * Extended peaks are defined as 600bp peaks centered at the MACS2 summits. Any overlapping peaks were then merged. Peaks in chrY and chrM were excluded.
 
-## Training data sets for LS-GKM training
-  * Sequence files as FASTA format for training and test:
-  [Chaklab1](https://drive.google.com/uc?id=1G4m_l-HS-2cEpRE-owrGypsfHqojFoUZ&export=download),
-  [Chaklab2](https://drive.google.com/uc?id=1-GVbjA5G97rhCSH1m7_ED01VBzpkA9jW&export=download),
-  [ENCODE1](https://drive.google.com/uc?id=1ClTtlZ3trQQqWYBEblOvUniXMNVMzGfz&export=download),
-  [ENCODE2](https://drive.google.com/uc?id=1piMkzC1OJxLvic9-vjH3qQE78-1fqYf0&export=download),
-  [Roadmap](https://drive.google.com/uc?id=1kHLojiEKlofbEgYp5wpoK9bwXEbuXT9m&export=download)
+## LS-GKM training
+  * Generic cardiac models:
+    * Sequence files in FASTA format for training and test:
+    [Chaklab1](https://drive.google.com/uc?id=1G4m_l-HS-2cEpRE-owrGypsfHqojFoUZ&export=download),
+    [Chaklab2](https://drive.google.com/uc?id=1-GVbjA5G97rhCSH1m7_ED01VBzpkA9jW&export=download),
+    [ENCODE1](https://drive.google.com/uc?id=1ClTtlZ3trQQqWYBEblOvUniXMNVMzGfz&export=download),
+    [ENCODE2](https://drive.google.com/uc?id=1piMkzC1OJxLvic9-vjH3qQE78-1fqYf0&export=download),
+    [Roadmap](https://drive.google.com/uc?id=1kHLojiEKlofbEgYp5wpoK9bwXEbuXT9m&export=download)
+    * [LS-GKM model files](https://drive.google.com/uc?id=1akku984BPNM8xoINxZx0kI0ebxXtwjeu&export=download)
+
 
 *last updated: 12/9/2017*
