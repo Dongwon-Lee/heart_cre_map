@@ -34,14 +34,21 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
   * Extended peaks are defined as 600bp peaks centered at the MACS2 summits. Any overlapping peaks were then merged. Peaks in chrY and chrM were excluded.
 
 ## LS-GKM training
-  * Generic cardiac models:
+  * Generic models:
     * Sequence files in FASTA format for training and test:
     [Chaklab1](https://drive.google.com/uc?id=1G4m_l-HS-2cEpRE-owrGypsfHqojFoUZ&export=download),
     [Chaklab2](https://drive.google.com/uc?id=1-GVbjA5G97rhCSH1m7_ED01VBzpkA9jW&export=download),
     [ENCODE1](https://drive.google.com/uc?id=1ClTtlZ3trQQqWYBEblOvUniXMNVMzGfz&export=download),
     [ENCODE2](https://drive.google.com/uc?id=1piMkzC1OJxLvic9-vjH3qQE78-1fqYf0&export=download),
     [Roadmap](https://drive.google.com/uc?id=1kHLojiEKlofbEgYp5wpoK9bwXEbuXT9m&export=download)
-    * [LS-GKM model files](https://drive.google.com/uc?id=1akku984BPNM8xoINxZx0kI0ebxXtwjeu&export=download)
-
+    * [trained model files](https://drive.google.com/uc?id=1akku984BPNM8xoINxZx0kI0ebxXtwjeu&export=download)
+  * Specific models:
+    * Sequence files in FASTA format for training and test:
+    [Chaklab1](https://drive.google.com/uc?id=1T6AzmOOns4pS1qRZLrhT4KOebmiucBlx&export=download)
+    [Chaklab2](https://drive.google.com/uc?id=1yMPqsAQCCqG1KOXTYSVSvg-DHBx2uv-Z&export=download)
+    [ENCODE1](https://drive.google.com/uc?id=1lQtBYyEA3hVoWyyP6Mrei0gHbVIYKF4d&export=download)
+    [ENCODE2](https://drive.google.com/uc?id=1yKtMaOCe5l_TGARLTQPHTzelLyKC1o_B&export=download)
+    [Roadmap](https://drive.google.com/uc?id=13EEpGTabssDQ57NMt4aG629m4a-FlvOo&export=download)
+    * [trained model files](https://drive.google.com/uc?id=1Q276l31PJi9VZqzuCBrTQIxUmT-Xy9SX&export=download)
 
 *last updated: 12/9/2017*
