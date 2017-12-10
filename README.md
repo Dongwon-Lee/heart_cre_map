@@ -56,7 +56,7 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
 ## Human transcription factors (TFs) and their position weight matrices (PWMs)
   * CIS-BP database
     * [TF_pwms/TF_Information_refined_v2.txt](./TF_pwms/TF_Information_refined_v2.txt):
-    Information about TFs and their selected PWMs from the [CIS-BP database](http://cisbp.ccbr.utoronto.ca/) (Weirauch et al. 2014)
+    Information about TFs and their selected PWMs from the [CIS-BP database](http://cisbp.ccbr.utoronto.ca/) (Weirauch et al., Cell, 2014)
     * [TF_pwms/CISBP_Human_refined_v2_nr.meme](./TF_pwms/CISBP_Human_refined_v2_nr.meme):
     775 non-redundant PWMs in MEME format
     * [TF_pwms/CISBP_Human_refined_v2_nr_8_11.meme](./TF_pwms/CISBP_Human_refined_v2_nr_8_11.meme):
@@ -64,11 +64,9 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
 
   * C2H2 Zinc Finger Transcription Factors
     * [TF_pwms/c2h2_zfs.meme](./TF_pwms/c2h2_zfs.meme):
-    94 C2H2 Zinc Finger PWMs.  Note that ZNF8 was later excluded from the study (no expression value in GTEx)
+    94 C2H2 Zinc Finger PWMs (Schmitges et al., Genome Res, 2016). Note that ZNF8 was later excluded from this study (no expression value in GTEx)
     * [TF_pwms/c2h2_zfs_8_11.meme](./TF_pwms/c2h2_zfs_8_11.meme):
     submatrix of PWMs with 8-11 bp lengths used for 11-mer scanning
-
-  *Notes: all files are in [TF_pwms](./TF_pwms) directory*
 
 ## Predicted cardiac TFs
   * [TF_analysis/fimo.cisbpv2_c2h2zf.11mers_nr.uniq.allhrt_p0_avg50_svmw.kmercnt_per_motif.5p.txt](./TF_analysis/fimo.cisbpv2_c2h2zf.11mers_nr.uniq.allhrt_p0_avg50_svmw.kmercnt_per_motif.5p.txt):
