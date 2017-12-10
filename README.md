@@ -40,15 +40,34 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
     [Chaklab2](https://drive.google.com/uc?id=1-GVbjA5G97rhCSH1m7_ED01VBzpkA9jW&export=download),
     [ENCODE1](https://drive.google.com/uc?id=1ClTtlZ3trQQqWYBEblOvUniXMNVMzGfz&export=download),
     [ENCODE2](https://drive.google.com/uc?id=1piMkzC1OJxLvic9-vjH3qQE78-1fqYf0&export=download),
-    [Roadmap](https://drive.google.com/uc?id=1kHLojiEKlofbEgYp5wpoK9bwXEbuXT9m&export=download)
+    [Roadmap](https://drive.google.com/uc?id=1kHLojiEKlofbEgYp5wpoK9bwXEbuXT9m&export=download),
+    ([View All](https://drive.google.com/drive/folders/1tI9r-d-gEmIP1bYLnuCvsXa-pN1b-SvL))
     * [trained model files](https://drive.google.com/uc?id=1akku984BPNM8xoINxZx0kI0ebxXtwjeu&export=download)
   * Specific models:
     * Sequence files in FASTA format for training and test:
-    [Chaklab1](https://drive.google.com/uc?id=1T6AzmOOns4pS1qRZLrhT4KOebmiucBlx&export=download)
-    [Chaklab2](https://drive.google.com/uc?id=1yMPqsAQCCqG1KOXTYSVSvg-DHBx2uv-Z&export=download)
-    [ENCODE1](https://drive.google.com/uc?id=1lQtBYyEA3hVoWyyP6Mrei0gHbVIYKF4d&export=download)
-    [ENCODE2](https://drive.google.com/uc?id=1yKtMaOCe5l_TGARLTQPHTzelLyKC1o_B&export=download)
-    [Roadmap](https://drive.google.com/uc?id=13EEpGTabssDQ57NMt4aG629m4a-FlvOo&export=download)
+    [Chaklab1](https://drive.google.com/uc?id=1T6AzmOOns4pS1qRZLrhT4KOebmiucBlx&export=download),
+    [Chaklab2](https://drive.google.com/uc?id=1yMPqsAQCCqG1KOXTYSVSvg-DHBx2uv-Z&export=download),
+    [ENCODE1](https://drive.google.com/uc?id=1lQtBYyEA3hVoWyyP6Mrei0gHbVIYKF4d&export=download),
+    [ENCODE2](https://drive.google.com/uc?id=1yKtMaOCe5l_TGARLTQPHTzelLyKC1o_B&export=download),
+    [Roadmap](https://drive.google.com/uc?id=13EEpGTabssDQ57NMt4aG629m4a-FlvOo&export=download),
+    ([View All](https://drive.google.com/drive/folders/1ckZ9V44wDg0kFg_BAErxWrarIaalmdGM))
     * [trained model files](https://drive.google.com/uc?id=1Q276l31PJi9VZqzuCBrTQIxUmT-Xy9SX&export=download)
+
+## Predicted Cardiac Transcription Factors (TFs)
+  * Curated positions weight matrices (PWM) for human TFs are in [TF_pwms](./TF_pwms)
+    * CIS-BP database
+      * [TF_Information_refined_v2.txt](./TF_pwms/TF_Information_refined_v2.txt): 
+      Information about TFs and their selected PWMs from the [CIS-BP database](http://cisbp.ccbr.utoronto.ca/) (Weirauch et al. 2014)
+      * [CISBP_Human_refined_v2_nr.meme](./TF_pwms/CISBP_Human_refined_v2_nr.meme): 
+      775 non-redundant PWMs in MEME format
+      * [CISBP_Human_refined_v2_nr_8_11.meme](./TF_pwms/CISBP_Human_refined_v2_nr_8_11.meme):
+      submatrix of PWMs with 8-11 bp lengths used for 11-mer scanning
+
+    * C2H2 Zinc Finger Transcription Factors
+      * [c2h2_zfs.meme](./TF_pwms/c2h2_zfs.meme):
+      94 C2H2 Zinc Finger PWMs.  Note that ZNF8 was excluded from the analysis (no expression value in GTEx)
+      * [c2h2_zfs_8_11.meme](./TF_pwms/c2h2_zfs_8_11.meme):
+      submatrix of PWMs with 8-11 bp lengths used for 11-mer scanning
+
 
 *last updated: 12/9/2017*
