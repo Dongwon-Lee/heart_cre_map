@@ -80,10 +80,10 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
   * [TF_analysis/TF_enrichment_test_all_v3.txt](./TF_analysis/TF_enrichment_test_all_v3.txt):
   Association tests of predicted TFs and expressed TFs for multiple human tissues
     * **tissue**: GTEx human tissue
-    * **m00**: number of genes that are *NOT* expressed in the given tissue and *NOT* enriched in heart DHSs
-    * **m01**: number of genes that are *NOT* expressed in the given tissue but enriched in heart DHSs
-    * **m10**: number of genes that are expressed in the given tissue but *NOT* enriched in heart DHSs
-    * **m11**: number of genes that are expressed in the given tissue and enriched in heart DHSs
+    * **m00**: number of genes that are *NOT expressed* in the given tissue and *NOT enriched* in heart DHSs
+    * **m01**: number of genes that are *NOT expressed* in the given tissue but *enriched* in heart DHSs
+    * **m10**: number of genes that are *expressed* in the given tissue but *NOT enriched* in heart DHSs
+    * **m11**: number of genes that are *expressed* in the given tissue and *enriched* in heart DHSs
     * **fisher_pval**: Fisher's exact test P-value (1-side) using 2-by-2 contingency table
   * [TF_analysis/TF_enrichment_test_all_v3.txt](./TF_analysis/TF_enrichment_test_spec90_v3.txt):
   Association tests of predicted TFs and expressed TFs for multiple human tissues after excluding commonly expressed TFs (>90% of tissues). The format is the same as above.
