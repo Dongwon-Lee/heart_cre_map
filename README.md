@@ -85,14 +85,14 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
     * **m10**: number of genes that are *expressed* in the given tissue but *NOT enriched* in heart DHSs
     * **m11**: number of genes that are *expressed* in the given tissue and *enriched* in heart DHSs
     * **fisher_pval**: Fisher's exact test P-value (1-side) using 2-by-2 contingency table
+  * [GTEx V6p normalized gene expression](https://drive.google.com/uc?id=1xiki7TWi_p4A_G0dcgSwfh92SnKttKZS&export=download)
   * [TF_analysis/TF_enrichment_test_all_v3.txt](./TF_analysis/TF_enrichment_test_spec90_v3.txt):
   Association tests of predicted TFs and expressed TFs for multiple human tissues after excluding commonly expressed TFs (>90% of tissues). The format is the same as above.
   * [TF_analysis/cisbpv2_c2h2zf_motif_clus.0.98.txt](./TF_analysis/cisbpv2_c2h2zf_motif_clus.0.98.txt):
-  Clustering PWMs based on the top 5th percentile 11-mer matching profile ([TF_analysis/cisbpv2_motif_kmer_heatmap_data.txt.gz](./TF_analysis/cisbpv2_motif_kmer_heatmap_data.txt.gz)]. UPGMA Hierarchical cluster analysis followed by tree cuts (cutoff=0.98) was applied to find clusters.  "Asymmetric binary" is used to calculate distance between PWMs.
+  Clustering PWMs based on the top 5th percentile 11-mer matching profile ([TF_analysis/cisbpv2_motif_kmer_heatmap_data.txt.gz](./TF_analysis/cisbpv2_motif_kmer_heatmap_data.txt.gz)). UPGMA Hierarchical cluster analysis followed by tree cuts (cutoff=0.98) was applied to find clusters.  "Asymmetric binary" is used to calculate distance between PWMs.
     * **clust**: cluster ID
     * **motid**: Motif ID
     * **center**: Exemplary motif ID, defined as the motif that has the minimum average distance to other motifs within its cluster
     * **avgdist**: Average distance of the examplary motif ID to others
-  * [GTEx V6p normalized gene expression](https://drive.google.com/uc?id=1xiki7TWi_p4A_G0dcgSwfh92SnKttKZS&export=download)
 
 *last updated: 12/10/2017*
