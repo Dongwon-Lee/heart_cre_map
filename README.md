@@ -27,7 +27,7 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
   [narrowPeak](https://drive.google.com/uc?id=1lzJP-2MvxCwBTcC1lveExgOVumS-hSs-&export=download),
   [bigWig](https://drive.google.com/uc?id=1OjPRLFHfrkoTZC_ET6ZlzZc9PMZCgccH&export=download),
   [extended](https://drive.google.com/uc?id=17CNwE1jmc_xSm6uwQpiVC3w5bKqbq9nW&export=download)
-  * Combined Heart DHSs: DHSs/all_heart_dhs_summits.e300.bed
+  * Combined Heart DHSs: [DHSs/all_heart_dhs_summits.e300.bed](./DHSs/all_heart_dhs_summits.e300.bed)
 
 *Notes:*
   * Click [here](https://drive.google.com/drive/folders/10N8sbZ5TKVrAnGJou7PuCcbljkBmW8WY) to View all files
@@ -41,7 +41,7 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
     [Chaklab2](https://drive.google.com/uc?id=1-GVbjA5G97rhCSH1m7_ED01VBzpkA9jW&export=download),
     [ENCODE1](https://drive.google.com/uc?id=1ClTtlZ3trQQqWYBEblOvUniXMNVMzGfz&export=download),
     [ENCODE2](https://drive.google.com/uc?id=1piMkzC1OJxLvic9-vjH3qQE78-1fqYf0&export=download),
-    [Roadmap](https://drive.google.com/uc?id=1kHLojiEKlofbEgYp5wpoK9bwXEbuXT9m&export=download),
+    [Roadmap](https://drive.google.com/uc?id=1kHLojiEKlofbEgYp5wpoK9bwXEbuXT9m&export=download)
     ([View All](https://drive.google.com/drive/folders/1tI9r-d-gEmIP1bYLnuCvsXa-pN1b-SvL))
     * [trained model files](https://drive.google.com/uc?id=1akku984BPNM8xoINxZx0kI0ebxXtwjeu&export=download)
   * Specific models:
@@ -50,7 +50,7 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
     [Chaklab2](https://drive.google.com/uc?id=1yMPqsAQCCqG1KOXTYSVSvg-DHBx2uv-Z&export=download),
     [ENCODE1](https://drive.google.com/uc?id=1lQtBYyEA3hVoWyyP6Mrei0gHbVIYKF4d&export=download),
     [ENCODE2](https://drive.google.com/uc?id=1yKtMaOCe5l_TGARLTQPHTzelLyKC1o_B&export=download),
-    [Roadmap](https://drive.google.com/uc?id=13EEpGTabssDQ57NMt4aG629m4a-FlvOo&export=download),
+    [Roadmap](https://drive.google.com/uc?id=13EEpGTabssDQ57NMt4aG629m4a-FlvOo&export=download)
     ([View All](https://drive.google.com/drive/folders/1ckZ9V44wDg0kFg_BAErxWrarIaalmdGM))
     * [trained model files](https://drive.google.com/uc?id=1Q276l31PJi9VZqzuCBrTQIxUmT-Xy9SX&export=download)
 
@@ -60,11 +60,13 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
     [Chaklab2](https://drive.google.com/uc?id=1NljkE6MdTYhjotwpPeAbDEvfGh5lpxzP&export=download),
     [ENCODE1](https://drive.google.com/uc?id=15WQl6q5NPo05spY_nEIkL4drVOujYEkY&export=download),
     [ENCODE2](https://drive.google.com/uc?id=1KIDCU2cE7DbqJJKmmlpRb9ThNktilEpQ&export=download),
-    [Roadmap](https://drive.google.com/uc?id=1bQrMBU0fujllXgg-FO4g2VKSH05b1nZD&export=download),
+    [Roadmap](https://drive.google.com/uc?id=1bQrMBU0fujllXgg-FO4g2VKSH05b1nZD&export=download)
     ([View All](https://drive.google.com/drive/folders/1Gj97jIgukILKFkL_Xcm4c8jMStpM3unR))
   * Predicted DHSs
-    * all predicted DHSs: DHSs/allhrt_p0_avg50_preds.bep.all.bed
-    * Predicted DHSs after removing DHS overlaps: DHSs/allhrt_p0_avg50_preds.bep.nodhs3.bed
+    * all predicted DHSs:
+    [DHSs/allhrt_p0_avg50_preds.bep.all.bed](./DHSs/allhrt_p0_avg50_preds.bep.all.bed)
+    * Predicted DHSs after removing DHS overlaps:
+    [DHSs/allhrt_p0_avg50_preds.bep.nodhs3.bed](./DHSs/allhrt_p0_avg50_preds.bep.nodhs3.bed)
 
 ## Human transcription factors (TFs) and their position weight matrices (PWMs)
   * CIS-BP database
