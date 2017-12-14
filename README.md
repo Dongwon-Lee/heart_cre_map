@@ -116,7 +116,7 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
     * cutoff: abs(deltaSVM_generic) > 0.894
   * deltaSVM scores of common variants (>1% MAF in EUR) using the cardiac specific model:
   [gkmscore.allhrt_spec30_avg50.1kgp3.hg19.eur.maf1.e10.dsvm.bed.gz](https://drive.google.com/uc?id=19sKVqCzxExxrPSD5ftszWG_tm4P8D56F&export=download)
-    * cutoff: abs(deltaSVM_generic) > 0.586
+    * cutoff: abs(deltaSVM_specific) > 0.586
     * Columns
       1. chr
       2. start
