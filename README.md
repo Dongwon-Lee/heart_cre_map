@@ -129,4 +129,8 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
       9. ref. SVM score
       10. alt. SVM score
 
-*last updated: 12/13/2017*
+## Locuszoom plots for QT-interval associated variants
+  * [qtigc_locuszoom](./qtigc_locuszoom):
+  Visualization of the 35 independent loci associated with QT-interval (Arking et al., Nature Genet, 2014) using LocusZoom (Pruim et al., Bioinformatics, 2010).
+
+*last updated: 12/14/2017*
