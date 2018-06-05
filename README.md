@@ -129,4 +129,14 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
       9. ref. SVM score
       10. alt. SVM score
 
-*last updated: 12/13/2017*
+  * generic deltaSVM scores of SNPs overlapping heart CREs:
+  [gkmscore.allhrt_avg50.1kgp3.hg19.eur.maf1.e10.dsvm.allhrtcre.bed.gz](https://drive.google.com/uc?id=1GQ2jj1O5GLBBr0zsQKG52uceSzLe2-Od&export=download)
+  * specific deltaSVM scores of SNPs overlapping heart CREs:
+  [gkmscore.allhrt_spec30_avg50.1kgp3.hg19.eur.maf1.e10.dsvm.allhrtcre.bed.gz](https://drive.google.com/uc?id=1sSzCOTrdfDx5-Q7azPTpmpcbwy0KryRn&export=download)
+
+  * *significant* generic deltaSVM SNPs overlapping heart CREs:
+  [gkmscore.allhrt_avg50.1kgp3.hg19.eur.maf1.e10.dsvm.allhrtcre.pos.bed.gz](https://drive.google.com/uc?id=1I1hS5e3x__7XbQvTfFs_u2JKjbnXpy5A&export=download)
+  * *significant* specific deltaSVM SNPs overlapping heart CREs:
+  [gkmscore.allhrt_spec30_avg50.1kgp3.hg19.eur.maf1.e10.dsvm.allhrtcre.pos.bed.gz](https://drive.google.com/uc?id=1_w-kgYJ-jILCG0Cbxeh6ODHS-1USx5hd&export=download)
+
+*last updated: 06/04/2018*
