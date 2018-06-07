@@ -139,4 +139,8 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
   * *significant* specific deltaSVM SNPs overlapping heart CREs:
   [gkmscore.allhrt_spec30_avg50.1kgp3.hg19.eur.maf1.e10.dsvm.allhrtcre.pos.bed.gz](https://drive.google.com/uc?id=1_w-kgYJ-jILCG0Cbxeh6ODHS-1USx5hd&export=download)
 
+## Locuszoom plots for QT-interval associated variants
+  * [qtigc_locuszoom](./qtigc_locuszoom):
+  Visualization of the 35 independent loci associated with QT-interval (Arking et al., Nature Genet, 2014) using LocusZoom (Pruim et al., Bioinformatics, 2010).
+
 *last updated: 06/04/2018*
