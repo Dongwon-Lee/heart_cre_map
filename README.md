@@ -4,7 +4,10 @@ Supplementary data for:
 **"Human cardiac cis-regulatory elements, their cognate transcription factors and regulatory DNA sequence variants"**
 Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Halushka, Gregory E. Crawford, Aravinda Chakravarti<sup>\*</sup>
 
-<sup>\*</sup> Correspondence should be addressed to: Aravinda Chakravarti (aravinda AT jhmi DOT edu) or Dongwon Lee (dwlee AT jhu edu)
+<sup>\*</sup> Correspondence should be addressed to: Aravinda Chakravarti (aravinda.chakravarti AT nyumc DOT org) or Dongwon Lee (dongwon.lee AT nyumc DOT org)
+
+*Notes:*
+  * Most big files are separately stored in google drive folders, and only links are provided in this README file.
 
 ## DHS peak sets called by MACS2 for the five adult heart samples
   * Chaklab1:
@@ -143,4 +146,4 @@ Dongwon Lee<sup>\*</sup>, Ashish Kapoor, Alexias Safi, Lingyun Song, Marc K. Hal
   * [qtigc_locuszoom](./qtigc_locuszoom):
   Visualization of the 35 independent loci associated with QT-interval (Arking et al., Nature Genet, 2014) using LocusZoom (Pruim et al., Bioinformatics, 2010).
 
-*last updated: 06/04/2018*
+*last updated: 06/12/2018*
