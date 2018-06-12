@@ -1,6 +1,10 @@
-loading<-T
+# R script for testing enrichment of Predicted TFs in human tissues
+# using GTEx data sets (V6p)
+#
+# by Dongwon Lee
 
 gtexf<-"./GTEx_Analysis_v6p_RNA-seq_RNA-SeQCv1.1.8_gene_median_rpkm.gct.gz"
+loading<-T
 
 #1. reading files
 if (loading==T) {
