@@ -1,5 +1,5 @@
 # R script for testing enrichment of Predicted TFs in human tissues
-# using GTEx data sets (V6p)
+# using GTEx V6p data sets (Figure 3)
 #
 # by Dongwon Lee
 
