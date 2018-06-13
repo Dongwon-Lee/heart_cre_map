@@ -1,5 +1,5 @@
 # A modified version of the vioplot function
-# The original package is the R package 'vioplot' by Daniel Adler
+# The original file is from the R package 'vioplot' by Daniel Adler
 #
 # by Dongwon Lee
 
