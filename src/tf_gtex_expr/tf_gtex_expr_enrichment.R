@@ -121,8 +121,6 @@ tissue_colors[heart_ind]<-col.set1[1]
 
 pval_ordered<-order(log10(res$fisher_pval))
 
-find_gene_expr_not_enriched
-print 
 ############ plots
 linewd <-0.5
 wd <- 5
